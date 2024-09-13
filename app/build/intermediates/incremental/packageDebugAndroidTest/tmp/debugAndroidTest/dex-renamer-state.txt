@@ -1,0 +1,4 @@
+#Wed Mar 15 19:21:36 BDT 2023
+base.0=D\:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\dex\\debugAndroidTest\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
