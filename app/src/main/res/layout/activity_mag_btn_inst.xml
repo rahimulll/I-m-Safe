@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Magnetometer"
+    android:background="@drawable/bgapps">
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginBottom="25dp"
+        app:cardCornerRadius="15dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:gravity="center_horizontal"
+            android:text="Detailed instructions "
+            android:textColor="#000000"
+            android:textSize="16sp"/>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="65dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="8dp"
+                android:inputType="textMultiLine"
+                android:padding="6dp"
+                android:text=" Electronic Hidden cameras :-\n\nWhile these cameras do not produce infrared light, the fact that they are electronic means that they do produce electromagnetic radiation.\n\nNow we've created a simulation that uses your phone's magnetometer sensor to help you identify any electrical gadget. \n\nBut most of the time, hidden cameras are put in places where people don't need to use electronics. \n\nSo, the detection of any electronic equipment at certain locations increases the likelihood that spy cameras have been installed.
+
+\nYou have to just move and scan all the suspected places by your phone and if there is any hidden camera then this app will start beeping. Make sure that the phone is very much close to the suspected area.\n\n"
+
+                android:textColor="#000000"
+                android:textSize="14sp" />
+        </ScrollView>
+    </androidx.cardview.widget.CardView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
