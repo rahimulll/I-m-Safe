@@ -1,0 +1,305 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mad.womensafety"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml
+10
+11    <permission
+11-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:5:5-109
+12        android:name="android.permission.ACCESS_FINE_LOCATION"
+12-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:5:17-71
+13        android:protectionLevel="dangerous" />
+13-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:5:72-107
+14    <permission
+14-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:6:5-111
+15        android:name="android.permission.ACCESS_COARSE_LOCATION"
+15-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:6:17-73
+16        android:protectionLevel="dangerous" />
+16-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:6:74-109
+17
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:8:5-79
+18-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:8:22-76
+19    <uses-permission android:name="com.example.mapdemo.permission.MAPS_RECEIVE" />
+19-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:9:5-83
+19-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:9:22-80
+20    <uses-permission android:name="android.permission.READ_CONTACTS" />
+20-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:11:5-71
+20-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:11:22-69
+21    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+21-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:12:5-76
+21-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:12:22-74
+22    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+22-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:13:5-84
+22-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:13:22-82
+23    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+23-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:14:5-94
+23-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:14:22-92
+24    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+24-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:16:5-81
+24-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:16:22-78
+25    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+25-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:17:5-79
+25-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:17:22-76
+26    <uses-permission android:name="android.permission.SEND_SMS" />
+26-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:18:5-67
+26-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:18:22-64
+27    <uses-permission android:name="android.permission.VIBRATE" />
+27-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:19:5-66
+27-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:19:22-63
+28    <uses-permission android:name="android.permission.CALL_PHONE" />
+28-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:20:5-69
+28-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:20:22-66
+29    <uses-permission android:name="android.permission.INTERNET" />
+29-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:21:5-67
+29-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:21:22-64
+30    <uses-permission android:name="android.permission.CAMERA" >
+30-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:22:5-82
+30-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:22:22-62
+31    </uses-permission>
+32
+33    <uses-feature
+33-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:24:5-26:35
+34        android:glEsVersion="0x00020000"
+34-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:25:9-41
+35        android:required="true" />
+35-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:26:9-32
+36
+37    <application
+37-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:28:5-140:19
+38        android:allowBackup="true"
+38-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:29:9-35
+39        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+39-->[androidx.core:core:1.5.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\924de24233a2c7f05656fd02de68fcd9\core-1.5.0\AndroidManifest.xml:24:18-86
+40        android:debuggable="true"
+41        android:icon="@mipmap/ic_launcher"
+41-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:30:9-43
+42        android:label="@string/app_name"
+42-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:31:9-41
+43        android:roundIcon="@mipmap/ic_launcher"
+43-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:32:9-48
+44        android:supportsRtl="true"
+44-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:33:9-35
+45        android:testOnly="true"
+46        android:theme="@style/AppTheme" >
+46-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:34:9-40
+47        <uses-library
+47-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:35:9-88
+48            android:name="org.apache.http.legacy"
+48-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:35:23-60
+49            android:required="false" />
+49-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:35:61-85
+50
+51        <receiver
+51-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:37:9-40:38
+52            android:name="com.mad.womensafety.ShakeServices.ReactivateService"
+52-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:38:13-60
+53            android:enabled="true"
+53-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:39:13-35
+54            android:exported="true" />
+54-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:40:13-36
+55
+56        <service
+56-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:42:9-45:39
+57            android:name="com.mad.womensafety.ShakeServices.SensorService"
+57-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:43:13-56
+58            android:enabled="true"
+58-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:44:13-35
+59            android:exported="true" />
+59-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:45:13-36
+60
+61        <activity
+61-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:47:9-52:48
+62            android:name="com.mad.womensafety.MapActivity"
+62-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:48:13-59
+63            android:exported="true"
+63-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:49:13-36
+64            android:label="Current Location"
+64-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:50:13-45
+65            android:parentActivityName="com.mad.womensafety.MainActivity"
+65-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:51:13-74
+66            android:theme="@style/Theme.New" />
+66-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:52:13-45
+67
+68        <uses-library
+68-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:53:9-88
+69            android:name="com.google.android.maps"
+69-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:53:47-85
+70            android:required="true" />
+70-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:53:23-46
+71
+72        <meta-data
+72-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:55:9-57:59
+73            android:name="com.google.android.maps.v2.API_KEY"
+73-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:56:13-62
+74            android:value="@string/google_maps_api_key" />
+74-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:57:13-56
+75        <meta-data
+75-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:59:9-61:69
+76            android:name="com.google.android.gms.version"
+76-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:60:13-58
+77            android:value="@integer/google_play_services_version" />
+77-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:61:13-66
+78
+79        <activity
+79-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:63:9-68:47
+80            android:name="com.mad.womensafety.Magnetometer"
+80-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:64:13-60
+81            android:exported="true"
+81-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:65:13-36
+82            android:label="Using Magnetometer"
+82-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:66:13-47
+83            android:parentActivityName="com.mad.womensafety.ChoosenActivity"
+83-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:67:13-77
+84            android:theme="@style/Theme.New" />
+84-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:68:13-45
+85        <activity
+85-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:70:9-75:47
+86            android:name="com.mad.womensafety.ChoosenActivity"
+86-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:71:13-63
+87            android:exported="true"
+87-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:72:13-36
+88            android:label="Detect Spy Camera"
+88-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:73:13-46
+89            android:parentActivityName="com.mad.womensafety.MainActivity"
+89-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:74:13-74
+90            android:theme="@style/Theme.New" />
+90-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:75:13-45
+91        <activity
+91-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:77:9-82:47
+92            android:name="com.mad.womensafety.MagBtnInst"
+92-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:78:13-58
+93            android:exported="true"
+93-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:79:13-36
+94            android:label="Detailed Instructions"
+94-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:80:13-50
+95            android:parentActivityName="com.mad.womensafety.Magnetometer"
+95-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:81:13-74
+96            android:theme="@style/Theme.New" />
+96-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:82:13-45
+97        <activity
+97-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:84:9-89:47
+98            android:name="com.mad.womensafety.SmsBtnInst"
+98-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:85:13-58
+99            android:exported="true"
+99-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:86:13-36
+100            android:label=" Instructions"
+100-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:87:13-42
+101            android:parentActivityName="com.mad.womensafety.SmsActivity"
+101-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:88:13-73
+102            android:theme="@style/Theme.New" />
+102-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:89:13-45
+103        <activity
+103-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:91:9-96:48
+104            android:name="com.mad.womensafety.SosInsructionsActivity"
+104-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:92:13-70
+105            android:exported="true"
+105-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:93:13-36
+106            android:label="SOS Instructions"
+106-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:94:13-45
+107            android:parentActivityName="com.mad.womensafety.SmsActivity"
+107-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:95:13-73
+108            android:theme="@style/Theme.New" />
+108-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:96:13-45
+109        <activity
+109-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:98:9-103:48
+110            android:name="com.mad.womensafety.HelplineActivity"
+110-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:99:13-64
+111            android:exported="true"
+111-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:100:13-36
+112            android:label="Helpline Numbers"
+112-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:101:13-45
+113            android:parentActivityName="com.mad.womensafety.MainActivity"
+113-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:102:13-74
+114            android:theme="@style/Theme.New" />
+114-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:103:13-45
+115        <activity
+115-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:104:9-108:48
+116            android:name="com.mad.womensafety.Instructions"
+116-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:105:13-60
+117            android:label="Chat-Bot"
+117-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:106:13-37
+118            android:parentActivityName="com.mad.womensafety.MainActivity"
+118-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:107:13-74
+119            android:theme="@style/Theme.New" />
+119-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:108:13-45
+120        <activity android:name="com.mad.womensafety.webactivity" />
+120-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:109:9-68
+120-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:109:19-65
+121        <activity
+121-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:111:9-115:48
+122            android:name="com.mad.womensafety.SmsActivity"
+122-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:112:13-59
+123            android:label="Emergency Service"
+123-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:113:13-46
+124            android:parentActivityName="com.mad.womensafety.MainActivity"
+124-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:114:13-74
+125            android:theme="@style/Theme.New" />
+125-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:115:13-45
+126        <activity android:name="com.mad.womensafety.CurrentLocation" />
+126-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:117:9-72
+126-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:117:19-69
+127        <activity android:name="com.mad.womensafety.Flashing" />
+127-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:118:9-65
+127-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:118:19-62
+128        <activity android:name="com.mad.womensafety.SplashActivity" >
+128-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:119:9-125:20
+128-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:119:19-68
+129            <intent-filter>
+129-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:120:13-124:29
+130                <action android:name="android.intent.action.MAIN" />
+130-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:121:17-69
+130-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:121:25-66
+131
+132                <category android:name="android.intent.category.LAUNCHER" />
+132-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:123:17-77
+132-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:123:27-74
+133            </intent-filter>
+134        </activity>
+135        <activity android:name="com.mad.womensafety.MainActivity" />
+135-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:126:9-69
+135-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:126:19-66
+136
+137        <receiver android:name="com.mad.womensafety.ScreenOnOffReceiver" >
+137-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:128:9-134:20
+137-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:128:19-73
+138            <intent-filter>
+138-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:129:13-133:29
+139                <action android:name="android.intent.action.SCREEN_OFF" />
+139-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:130:17-75
+139-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:130:25-72
+140                <action android:name="android.intent.action.SCREEN_ON" />
+140-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:131:17-74
+140-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:131:25-71
+141                <action android:name="number.action.string" />
+141-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:132:17-63
+141-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:132:25-60
+142            </intent-filter>
+143        </receiver>
+144
+145        <service
+145-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:136:9-139:40
+146            android:name="com.mad.womensafety.ScreenOnOffBackgroundService"
+146-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:137:13-76
+147            android:enabled="true"
+147-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:138:13-35
+148            android:exported="false" />
+148-->D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:139:13-37
+149
+150        <activity
+150-->[com.google.android.gms:play-services-base:17.5.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\5821328f8f477a3116419089342c9705\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+151            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+151-->[com.google.android.gms:play-services-base:17.5.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\5821328f8f477a3116419089342c9705\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+152            android:exported="false"
+152-->[com.google.android.gms:play-services-base:17.5.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\5821328f8f477a3116419089342c9705\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+153            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+153-->[com.google.android.gms:play-services-base:17.5.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\5821328f8f477a3116419089342c9705\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+154    </application>
+155
+156</manifest>
