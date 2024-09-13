@@ -1,0 +1,554 @@
+[
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_launchericon_laddybuddy_background.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\launchericon_laddybuddy_background.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_alert.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_alert.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_about_us.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_about_us.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_share.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_app_overview.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable\\ic_app_overview.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_delete.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\delete.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_photographer.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxhdpi\\ic_photographer.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_photographer.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_photographer.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_alarm_long.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxhdpi\\ic_alarm_long.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\layout_progressbar_layout.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\layout\\progressbar_layout.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_magnetometer.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\layout\\activity_magnetometer.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_alarm_long.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-mdpi\\ic_alarm_long.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_photographer.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-hdpi\\ic_photographer.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_idea.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxhdpi\\ic_idea.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\raw_beep.mp3.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\raw\\beep.mp3"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_photographer.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-mdpi\\ic_photographer.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_instruction.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-mdpi\\ic_instruction.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_about_new.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxhdpi\\ic_about_new.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_dialog2.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\layout\\custom_dialog2.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\raw_police_siren.mp3.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\raw\\police_siren.mp3"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_sos.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_sos.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_launchericon_laddybuddy_background.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\launchericon_laddybuddy_background.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_security_camera.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-hdpi\\ic_security_camera.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\raw_beepd.mp3.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\raw\\beepd.mp3"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_police_car.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable\\police_car.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_share.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-hdpi\\ic_share.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_share.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_about_neww.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-hdpi\\ic_about_neww.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_launchericon_laddybuddy_background.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\launchericon_laddybuddy_background.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_date.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable\\date.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_world_news.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-mdpi\\ic_world_news.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_photographer__new.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxhdpi\\ic_photographer__new.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_instruction.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-hdpi\\ic_instruction.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_emergency_call.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxhdpi\\ic_emergency_call.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_alert.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-mdpi\\ic_alert.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.jpg.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sos_insructions.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\layout\\activity_sos_insructions.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_photographer__new.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_photographer__new.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_about_us.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-mdpi\\ic_about_us.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_sos.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-hdpi\\ic_sos.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\menu_sos_menu.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\menu\\sos_menu.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_delete.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\delete.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_user.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\layout\\item_user.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_photographer__new.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-hdpi\\ic_photographer__new.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_siren_new.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-hdpi\\ic_siren_new.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_about_new.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_about_new.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chat.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable\\chat.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_idea.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-hdpi\\ic_idea.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_choosen.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\layout\\activity_choosen.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_about_newww.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxhdpi\\ic_about_newww.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_delete.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\delete.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_app_overview.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-hdpi\\ic_app_overview.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_about_us.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-hdpi\\ic_about_us.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_emergency_call.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-mdpi\\ic_emergency_call.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_world_news.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-hdpi\\ic_world_news.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_instructions.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\layout\\activity_instructions.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_photographer__new.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-mdpi\\ic_photographer__new.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_app_overview.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_app_overview.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_about_us.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxhdpi\\ic_about_us.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bookmark.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable\\bookmark.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_alert.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-hdpi\\ic_alert.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_map.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mag_btn_inst.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\layout\\activity_mag_btn_inst.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_about_neww.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-mdpi\\ic_about_neww.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_delete.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\delete.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_launchericon_laddybuddy_background.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\launchericon_laddybuddy_background.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_spot_mask.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-v24\\spot_mask.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_about_newww.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_about_newww.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_app_overview.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxhdpi\\ic_app_overview.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_about_new.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-mdpi\\ic_about_new.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_sos.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxhdpi\\ic_sos.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bgapps.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable\\bgapps.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_second.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_alarm_long.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-hdpi\\ic_alarm_long.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_world_news.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_world_news.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_contact.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable\\contact.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_edit_text_cursor.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable\\custom_edit_text_cursor.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_about_new.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-hdpi\\ic_about_new.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_dialog.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_about_neww.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_about_neww.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_siren_new.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_siren_new.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_security_camera.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxhdpi\\ic_security_camera.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_idea.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-mdpi\\ic_idea.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_instruction.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxhdpi\\ic_instruction.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_siren_new.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-mdpi\\ic_siren_new.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_instruction.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_instruction.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_delete.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\delete.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_webactivity.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\layout\\activity_webactivity.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_saving_activity.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\layout\\content_saving_activity.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_emergency_call.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-hdpi\\ic_emergency_call.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_alarm_long.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_alarm_long.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sms.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\layout\\activity_sms.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\menu_instructions_menu.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\menu\\instructions_menu.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sms_btn_inst.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\layout\\activity_sms_btn_inst.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_flashing.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\layout\\activity_flashing.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_current_location.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\layout\\activity_current_location.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_sos.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-mdpi\\ic_sos.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_delete.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\delete.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_world_news.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxhdpi\\ic_world_news.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_alert.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxhdpi\\ic_alert.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_siren_new.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxhdpi\\ic_siren_new.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_first.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_idea.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_idea.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_launchericon_laddybuddy_background.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\launchericon_laddybuddy_background.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_emergency_call.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_emergency_call.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_buttonn.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-v24\\buttonn.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_about_newww.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-hdpi\\ic_about_newww.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_launchericon_laddybuddy_background.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\launchericon_laddybuddy_background.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_helpline.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\layout\\activity_helpline.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_share.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-mdpi\\ic_share.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_delete.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\delete.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_security_camera.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-mdpi\\ic_security_camera.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_about_neww.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxhdpi\\ic_about_neww.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bitcoin.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable\\bitcoin.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bug.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable\\bug.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_app_overview.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-mdpi\\ic_app_overview.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_security_camera.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_security_camera.png"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_launchericon_laddybuddy_background.xml.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\launchericon_laddybuddy_background.xml"
+    },
+    {
+        "merged": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_about_newww.png.flat",
+        "source": "D:\\UNIVERSITY\\CSE 299\\I'm Safe\\app\\src\\main\\res\\drawable-mdpi\\ic_about_newww.png"
+    }
+]
