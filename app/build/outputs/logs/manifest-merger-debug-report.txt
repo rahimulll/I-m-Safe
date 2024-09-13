@@ -1,0 +1,532 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:2:1-142:12
+INJECTED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:2:1-142:12
+INJECTED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:2:1-142:12
+INJECTED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:2:1-142:12
+MERGED from [androidx.navigation:navigation-ui:2.3.5] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\c953f122ca69c968e34017430a9cf762\navigation-ui-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.4.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\93284bec4a19c8fd89cc15470774cb95\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\034380b29b0447f50c986738c347c7ba\constraintlayout-2.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.airbnb.android:lottie:3.4.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\262dad6812d2b4a7276d07ae0349ea47\jetified-lottie-3.4.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\e77cd948132f1a957fd2c0d46033bd13\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\edb03ed300512ae8da7c146a103a6c79\jetified-play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:18.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\79efbd6735015b1d0706bbb2a98c781d\jetified-play-services-location-18.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [org.permissionsdispatcher:permissionsdispatcher:4.7.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\ff8c7791cd7331c6107c8cc083ba3e91\jetified-permissionsdispatcher-4.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\60b6a31d706ca9bea539db9775f1a92c\navigation-fragment-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\7d7fd0d2929b90b96150578fa61b2794\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\b584664e59dd8e569e836c623d2294be\gridlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\fa52e002ae9e78e35c25fee9f61d47d2\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-base:17.5.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\5821328f8f477a3116419089342c9705\jetified-play-services-base-17.5.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\494c74e4ebe1537bbf8ee185555ae170\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\cddddc149b7a7c5c928178c1fd4390b3\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\fb798ee1cb794e56a9fb78a058527761\jetified-play-services-basement-17.5.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\f5f514aefab3bab424b829f9c5a8fd3e\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\24f14b41ef025523124146d7429d6f86\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\2b9ca9b9608a32b1fa2058a16b180d92\navigation-runtime-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\1940d85936393d8a8580301e3575c24a\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\7c397aa2523e721d7a7af14d722c4857\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\92f8e3eea2413f9234d57f836e040f22\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\1ebdab2cccca905a3cd28bb608703327\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\e791a1d7518d952e33a90a3b19fdcdde\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\14bfd2f44a1567c658112bb55b76246b\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\f543223d8dd1217edab7f57e00d5e19d\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\8d10c5db191326413ed7baab3c30ebd6\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\445e3f50296ea649323f9e966091eecc\transition-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\ad12b5d47f95c8d2598703c1b1f7c267\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\cff0d1b30776eaeafd152d3c76e2da6a\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\0408bc08863151ad5a41361bace418b5\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\bc729c8116a2f8d6433308d522d32805\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\18e25bdaeb278667d7aef2960bdb2cf5\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\495dc0f2fa247d616fe68db13bf5e07d\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.3.5] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\c829897afe45fcd92c7c73d6039d0eb6\navigation-common-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\98533a75c963d389d2db7b5a19727bc5\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\48d198bece9830d2bf28cd51b05742db\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\924de24233a2c7f05656fd02de68fcd9\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\aace0d5da73d2c817f12bb96d6698e5c\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\8f14df2f1f90706b0ddb685bcbfe1c57\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\08304286ec81d6f319f280ad326c4326\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\151906b0276e43a26c3fcddea9d9d6fd\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\8ced556170335a904add699a74fcf82a\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\201520ec0a185ec8f3b8dab96cf35d1d\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\a14ae2a393856b1c4222776799827fd2\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\b94284103bcd3e98fdc6bb7c54e81c8b\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\475eb0dbd34670226a722aac05a8fe5a\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\54ec9a60a0f20829d9c5323f1ce0908c\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\78b7eb29480bf7578b663c78c31a830a\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\1cfd2abfffba474819c6ba886bdc15c5\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\c4e2469658fdd8801a5306110b0915fc\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\1d3d300991201f0272c309154f6a5e44\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\b483c59108b83b2c001374a9e1131636\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\28efee2bf1e9a77f569846ad27f8a168\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\257179ec940acce9d9b9b9069652d215\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:2:1-142:12
+INJECTED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:2:1-142:12
+INJECTED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:2:1-142:12
+	package
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml
+		INJECTED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:2:1-142:12
+		INJECTED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:2:1-142:12
+		INJECTED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:2:11-69
+permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:5:5-109
+	android:protectionLevel
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:5:72-107
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:5:17-71
+permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:6:5-111
+	android:protectionLevel
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:6:74-109
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:6:17-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\edb03ed300512ae8da7c146a103a6c79\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\edb03ed300512ae8da7c146a103a6c79\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#com.example.mapdemo.permission.MAPS_RECEIVE
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:9:5-83
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:9:22-80
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:11:22-69
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:12:22-74
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:13:5-84
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:13:22-82
+uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:14:5-94
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:14:22-92
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:18:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:19:22-63
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:20:5-69
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:20:22-66
+uses-permission#android.permission.INTERNET
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\edb03ed300512ae8da7c146a103a6c79\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\edb03ed300512ae8da7c146a103a6c79\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:21:22-64
+uses-permission#android.permission.CAMERA
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:22:5-82
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:22:22-62
+uses-feature#0x00020000
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:24:5-26:35
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\edb03ed300512ae8da7c146a103a6c79\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\edb03ed300512ae8da7c146a103a6c79\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:25:9-41
+	android:required
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:26:9-32
+application
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:28:5-140:19
+MERGED from [com.google.android.material:material:1.4.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\93284bec4a19c8fd89cc15470774cb95\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\93284bec4a19c8fd89cc15470774cb95\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\034380b29b0447f50c986738c347c7ba\constraintlayout-2.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\034380b29b0447f50c986738c347c7ba\constraintlayout-2.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.4.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\262dad6812d2b4a7276d07ae0349ea47\jetified-lottie-3.4.0\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.4.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\262dad6812d2b4a7276d07ae0349ea47\jetified-lottie-3.4.0\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\edb03ed300512ae8da7c146a103a6c79\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\edb03ed300512ae8da7c146a103a6c79\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:18.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\79efbd6735015b1d0706bbb2a98c781d\jetified-play-services-location-18.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:18.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\79efbd6735015b1d0706bbb2a98c781d\jetified-play-services-location-18.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\fa52e002ae9e78e35c25fee9f61d47d2\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\fa52e002ae9e78e35c25fee9f61d47d2\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-base:17.5.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\5821328f8f477a3116419089342c9705\jetified-play-services-base-17.5.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\5821328f8f477a3116419089342c9705\jetified-play-services-base-17.5.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\494c74e4ebe1537bbf8ee185555ae170\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\494c74e4ebe1537bbf8ee185555ae170\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\cddddc149b7a7c5c928178c1fd4390b3\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\cddddc149b7a7c5c928178c1fd4390b3\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\fb798ee1cb794e56a9fb78a058527761\jetified-play-services-basement-17.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\fb798ee1cb794e56a9fb78a058527761\jetified-play-services-basement-17.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\924de24233a2c7f05656fd02de68fcd9\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\924de24233a2c7f05656fd02de68fcd9\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\201520ec0a185ec8f3b8dab96cf35d1d\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\201520ec0a185ec8f3b8dab96cf35d1d\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\b94284103bcd3e98fdc6bb7c54e81c8b\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\b94284103bcd3e98fdc6bb7c54e81c8b\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\924de24233a2c7f05656fd02de68fcd9\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:33:9-35
+	android:label
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:31:9-41
+	android:roundIcon
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:32:9-48
+	android:icon
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:30:9-43
+	android:allowBackup
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:29:9-35
+	android:theme
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:34:9-40
+uses-library#org.apache.http.legacy
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:35:9-88
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\edb03ed300512ae8da7c146a103a6c79\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\edb03ed300512ae8da7c146a103a6c79\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:35:61-85
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:35:23-60
+receiver#com.mad.womensafety.ShakeServices.ReactivateService
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:37:9-40:38
+	android:enabled
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:39:13-35
+	android:exported
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:40:13-36
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:38:13-60
+service#com.mad.womensafety.ShakeServices.SensorService
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:42:9-45:39
+	android:enabled
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:44:13-35
+	android:exported
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:45:13-36
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:43:13-56
+activity#com.mad.womensafety.MapActivity
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:47:9-52:48
+	android:parentActivityName
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:51:13-74
+	android:label
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:50:13-45
+	android:exported
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:49:13-36
+	android:theme
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:52:13-45
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:48:13-59
+uses-library#com.google.android.maps
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:53:9-88
+	android:required
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:53:23-46
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:53:47-85
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:55:9-57:59
+	android:value
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:57:13-56
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:56:13-62
+meta-data#com.google.android.gms.version
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:59:9-61:69
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\fb798ee1cb794e56a9fb78a058527761\jetified-play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\fb798ee1cb794e56a9fb78a058527761\jetified-play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:61:13-66
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:60:13-58
+activity#com.mad.womensafety.Magnetometer
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:63:9-68:47
+	android:parentActivityName
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:67:13-77
+	android:label
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:66:13-47
+	android:exported
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:65:13-36
+	android:theme
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:68:13-45
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:64:13-60
+activity#com.mad.womensafety.ChoosenActivity
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:70:9-75:47
+	android:parentActivityName
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:74:13-74
+	android:label
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:73:13-46
+	android:exported
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:72:13-36
+	android:theme
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:75:13-45
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:71:13-63
+activity#com.mad.womensafety.MagBtnInst
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:77:9-82:47
+	android:parentActivityName
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:81:13-74
+	android:label
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:80:13-50
+	android:exported
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:79:13-36
+	android:theme
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:82:13-45
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:78:13-58
+activity#com.mad.womensafety.SmsBtnInst
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:84:9-89:47
+	android:parentActivityName
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:88:13-73
+	android:label
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:87:13-42
+	android:exported
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:86:13-36
+	android:theme
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:89:13-45
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:85:13-58
+activity#com.mad.womensafety.SosInsructionsActivity
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:91:9-96:48
+	android:parentActivityName
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:95:13-73
+	android:label
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:94:13-45
+	android:exported
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:93:13-36
+	android:theme
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:96:13-45
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:92:13-70
+activity#com.mad.womensafety.HelplineActivity
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:98:9-103:48
+	android:parentActivityName
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:102:13-74
+	android:label
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:101:13-45
+	android:exported
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:100:13-36
+	android:theme
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:103:13-45
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:99:13-64
+activity#com.mad.womensafety.Instructions
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:104:9-108:48
+	android:parentActivityName
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:107:13-74
+	android:label
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:106:13-37
+	android:theme
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:108:13-45
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:105:13-60
+activity#com.mad.womensafety.webactivity
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:109:9-68
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:109:19-65
+activity#com.mad.womensafety.SmsActivity
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:111:9-115:48
+	android:parentActivityName
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:114:13-74
+	android:label
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:113:13-46
+	android:theme
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:115:13-45
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:112:13-59
+activity#com.mad.womensafety.CurrentLocation
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:117:9-72
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:117:19-69
+activity#com.mad.womensafety.Flashing
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:118:9-65
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:118:19-62
+activity#com.mad.womensafety.SplashActivity
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:119:9-125:20
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:119:19-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:120:13-124:29
+action#android.intent.action.MAIN
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:121:17-69
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:121:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:123:17-77
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:123:27-74
+activity#com.mad.womensafety.MainActivity
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:126:9-69
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:126:19-66
+receiver#com.mad.womensafety.ScreenOnOffReceiver
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:128:9-134:20
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:128:19-73
+intent-filter#action:name:android.intent.action.SCREEN_OFF+action:name:android.intent.action.SCREEN_ON+action:name:number.action.string
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:129:13-133:29
+action#android.intent.action.SCREEN_OFF
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:130:17-75
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:130:25-72
+action#android.intent.action.SCREEN_ON
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:131:17-74
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:131:25-71
+action#number.action.string
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:132:17-63
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:132:25-60
+service#com.mad.womensafety.ScreenOnOffBackgroundService
+ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:136:9-139:40
+	android:enabled
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:138:13-35
+	android:exported
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:139:13-37
+	android:name
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml:137:13-76
+uses-sdk
+INJECTED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml
+INJECTED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-ui:2.3.5] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\c953f122ca69c968e34017430a9cf762\navigation-ui-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\c953f122ca69c968e34017430a9cf762\navigation-ui-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.4.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\93284bec4a19c8fd89cc15470774cb95\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\93284bec4a19c8fd89cc15470774cb95\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\034380b29b0447f50c986738c347c7ba\constraintlayout-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\034380b29b0447f50c986738c347c7ba\constraintlayout-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.4.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\262dad6812d2b4a7276d07ae0349ea47\jetified-lottie-3.4.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.4.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\262dad6812d2b4a7276d07ae0349ea47\jetified-lottie-3.4.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\e77cd948132f1a957fd2c0d46033bd13\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\e77cd948132f1a957fd2c0d46033bd13\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\edb03ed300512ae8da7c146a103a6c79\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\edb03ed300512ae8da7c146a103a6c79\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:18.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\79efbd6735015b1d0706bbb2a98c781d\jetified-play-services-location-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:18.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\79efbd6735015b1d0706bbb2a98c781d\jetified-play-services-location-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [org.permissionsdispatcher:permissionsdispatcher:4.7.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\ff8c7791cd7331c6107c8cc083ba3e91\jetified-permissionsdispatcher-4.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [org.permissionsdispatcher:permissionsdispatcher:4.7.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\ff8c7791cd7331c6107c8cc083ba3e91\jetified-permissionsdispatcher-4.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\60b6a31d706ca9bea539db9775f1a92c\navigation-fragment-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\60b6a31d706ca9bea539db9775f1a92c\navigation-fragment-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\7d7fd0d2929b90b96150578fa61b2794\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\7d7fd0d2929b90b96150578fa61b2794\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\b584664e59dd8e569e836c623d2294be\gridlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\b584664e59dd8e569e836c623d2294be\gridlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.11.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\fa52e002ae9e78e35c25fee9f61d47d2\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\fa52e002ae9e78e35c25fee9f61d47d2\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-base:17.5.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\5821328f8f477a3116419089342c9705\jetified-play-services-base-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\5821328f8f477a3116419089342c9705\jetified-play-services-base-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\494c74e4ebe1537bbf8ee185555ae170\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\494c74e4ebe1537bbf8ee185555ae170\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\cddddc149b7a7c5c928178c1fd4390b3\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\cddddc149b7a7c5c928178c1fd4390b3\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\fb798ee1cb794e56a9fb78a058527761\jetified-play-services-basement-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\fb798ee1cb794e56a9fb78a058527761\jetified-play-services-basement-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\f5f514aefab3bab424b829f9c5a8fd3e\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\f5f514aefab3bab424b829f9c5a8fd3e\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\24f14b41ef025523124146d7429d6f86\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\24f14b41ef025523124146d7429d6f86\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\2b9ca9b9608a32b1fa2058a16b180d92\navigation-runtime-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\2b9ca9b9608a32b1fa2058a16b180d92\navigation-runtime-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\1940d85936393d8a8580301e3575c24a\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\1940d85936393d8a8580301e3575c24a\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\7c397aa2523e721d7a7af14d722c4857\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\7c397aa2523e721d7a7af14d722c4857\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\92f8e3eea2413f9234d57f836e040f22\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\92f8e3eea2413f9234d57f836e040f22\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\1ebdab2cccca905a3cd28bb608703327\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\1ebdab2cccca905a3cd28bb608703327\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\e791a1d7518d952e33a90a3b19fdcdde\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\e791a1d7518d952e33a90a3b19fdcdde\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\14bfd2f44a1567c658112bb55b76246b\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\14bfd2f44a1567c658112bb55b76246b\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\f543223d8dd1217edab7f57e00d5e19d\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\f543223d8dd1217edab7f57e00d5e19d\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\8d10c5db191326413ed7baab3c30ebd6\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\8d10c5db191326413ed7baab3c30ebd6\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\445e3f50296ea649323f9e966091eecc\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\445e3f50296ea649323f9e966091eecc\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\ad12b5d47f95c8d2598703c1b1f7c267\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\ad12b5d47f95c8d2598703c1b1f7c267\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\cff0d1b30776eaeafd152d3c76e2da6a\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\cff0d1b30776eaeafd152d3c76e2da6a\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\0408bc08863151ad5a41361bace418b5\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\0408bc08863151ad5a41361bace418b5\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\bc729c8116a2f8d6433308d522d32805\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\bc729c8116a2f8d6433308d522d32805\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\18e25bdaeb278667d7aef2960bdb2cf5\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\18e25bdaeb278667d7aef2960bdb2cf5\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\495dc0f2fa247d616fe68db13bf5e07d\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\495dc0f2fa247d616fe68db13bf5e07d\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.3.5] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\c829897afe45fcd92c7c73d6039d0eb6\navigation-common-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\c829897afe45fcd92c7c73d6039d0eb6\navigation-common-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\98533a75c963d389d2db7b5a19727bc5\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\98533a75c963d389d2db7b5a19727bc5\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\48d198bece9830d2bf28cd51b05742db\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\48d198bece9830d2bf28cd51b05742db\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\924de24233a2c7f05656fd02de68fcd9\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\924de24233a2c7f05656fd02de68fcd9\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\aace0d5da73d2c817f12bb96d6698e5c\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\aace0d5da73d2c817f12bb96d6698e5c\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\8f14df2f1f90706b0ddb685bcbfe1c57\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\8f14df2f1f90706b0ddb685bcbfe1c57\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\08304286ec81d6f319f280ad326c4326\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\08304286ec81d6f319f280ad326c4326\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\151906b0276e43a26c3fcddea9d9d6fd\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\151906b0276e43a26c3fcddea9d9d6fd\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\8ced556170335a904add699a74fcf82a\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\8ced556170335a904add699a74fcf82a\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\201520ec0a185ec8f3b8dab96cf35d1d\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\201520ec0a185ec8f3b8dab96cf35d1d\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\a14ae2a393856b1c4222776799827fd2\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\a14ae2a393856b1c4222776799827fd2\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\b94284103bcd3e98fdc6bb7c54e81c8b\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\b94284103bcd3e98fdc6bb7c54e81c8b\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\475eb0dbd34670226a722aac05a8fe5a\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\475eb0dbd34670226a722aac05a8fe5a\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\54ec9a60a0f20829d9c5323f1ce0908c\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\54ec9a60a0f20829d9c5323f1ce0908c\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\78b7eb29480bf7578b663c78c31a830a\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\78b7eb29480bf7578b663c78c31a830a\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\1cfd2abfffba474819c6ba886bdc15c5\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\1cfd2abfffba474819c6ba886bdc15c5\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\c4e2469658fdd8801a5306110b0915fc\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\c4e2469658fdd8801a5306110b0915fc\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\1d3d300991201f0272c309154f6a5e44\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\1d3d300991201f0272c309154f6a5e44\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\b483c59108b83b2c001374a9e1131636\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\b483c59108b83b2c001374a9e1131636\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\28efee2bf1e9a77f569846ad27f8a168\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\28efee2bf1e9a77f569846ad27f8a168\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\257179ec940acce9d9b9b9069652d215\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\257179ec940acce9d9b9b9069652d215\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml
+INJECTED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml
+		INJECTED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml
+		ADDED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml
+		INJECTED from D:\UNIVERSITY\CSE 299\I'm Safe\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.5.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\5821328f8f477a3116419089342c9705\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\5821328f8f477a3116419089342c9705\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\5821328f8f477a3116419089342c9705\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] D:\UNIVERSITY\CSE 299\save_userLocation_data_in_sharedPreferences_and_show_on_googleMap-master\.gradle\caches\transforms-2\files-2.1\5821328f8f477a3116419089342c9705\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79
